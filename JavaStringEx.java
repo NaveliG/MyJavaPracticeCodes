@@ -1,0 +1,16 @@
+package com.oop.java;
+
+public class JavaStringEx {
+	public static void main(String[] args) {
+	String s1="Java";
+	char ch[]= {'s','t','r','i','n','g'};
+	String s2=new String(ch);
+	String s3=new String("Example");
+	
+	
+		//JavaStringEx obj=new JavaStringEx();
+		System.out.println(s1);
+		System.out.println(s2);
+		System.out.println(s3);
+	}
+}
